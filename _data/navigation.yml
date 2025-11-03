@@ -56,5 +56,5 @@ stages:
   
   - title: "Additional Resources"
     children:
-      - title: "Manual Annotaions"
+      - title: "Manual Annotations"
         url: /Manual-Annotation/README
